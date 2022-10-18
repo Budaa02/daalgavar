@@ -1,0 +1,51 @@
+*
+{
+    box-sizing:border-box;
+}
+.container{
+    width:100%;
+    max-width: 1280px;
+    margin:auto;
+    font-family: 'Poppins'
+}
+body{
+    margin:0;
+}
+.Home{
+    display:flex;
+    justify-content:space-between;
+}
+.career{
+    display:flex;
+    width:50%;
+    justify-content: space-between;
+}
+.blog ul {
+    list-style:none; 
+    display:flex;
+    justify-content: space-evenly;
+    font-size:16px;
+    font-weight: 600px;
+    line-height: 24px;
+}
+.blog{
+    width:80%;
+}
+.clicker{
+    width:173px;
+    height:52px;
+    border-radius:50px;
+    background: rgba(245, 138, 7, 0.1);
+    color:rgba(245, 138, 7, 1);
+}
+.screen{
+  background: rgba(220, 234, 245, 1);
+  background-size: cover;
+  background-position: center;
+  width:100%;
+  margin:0;
+  height:703px;
+}
+.screen{
+    display:flex;
+}
