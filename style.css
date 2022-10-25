@@ -239,3 +239,8 @@ h8{
     background-size: cover;
     background-position: center;
 }
+.card_1 .learn{
+    color: rgba(245, 138, 7, 1);        
+    text-decoration:none;
+
+}
